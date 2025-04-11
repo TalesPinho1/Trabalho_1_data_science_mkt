@@ -10,6 +10,12 @@ O notebook **Data_Science_Marketing (1).ipynb** está organizado nas seguintes s
 - **Análise e Resultados:** Exibe os gráficos, tabelas e interpretações dos dados.
 - **Conclusão:** Resume os resultados obtidos e propõe futuras melhorias e estudos.
 
+## Dados Utilizados
+Além do notebook, foram utilizadas as seguintes planilhas para complementar a análise:
+- **transacoes.csv:** Registra as transações efetuadas, servindo para analisar o comportamento de compra e os fluxos de receita.
+- **clientes.csv:** Contém informações dos clientes, permitindo a segmentação e análise do perfil e comportamento dos consumidores.
+- **campanhas.csv:** Apresenta dados das campanhas de marketing, possibilitando correlacionar as ações publicitárias com os resultados alcançados.
+
 ## Tecnologias Utilizadas
 - **Linguagem:** Python
 - **Ambiente:** Colab
